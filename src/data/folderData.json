@@ -1,0 +1,95 @@
+{
+    "name": "Root",
+    "type": "folder",
+    "id": "root",
+    "children": [
+      {
+        "name": "Documents",
+        "type": "folder",
+        "id": "root/Documents",
+        "children": [
+          {
+            "name": "Work",
+            "type": "folder",
+            "id": "root/Documents/Work",
+            "children": [
+              {
+                "name": "Report.docx",
+                "type": "file",
+                "id": "root/Documents/Work/Report.docx"
+              },
+              {
+                "name": "Presentation.pptx",
+                "type": "file",
+                "id": "root/Documents/Work/Presentation.pptx"
+              }
+            ]
+          },
+          {
+            "name": "Personal",
+            "type": "folder",
+            "id": "root/Documents/Personal",
+            "children": [
+              {
+                "name": "Resume.pdf",
+                "type": "file",
+                "id": "root/Documents/Personal/Resume.pdf"
+              },
+              {
+                "name": "Vacation Photos",
+                "type": "folder",
+                "id": "root/Documents/Personal/Vacation Photos",
+                "children": [
+                  {
+                    "name": "Beach.jpg",
+                    "type": "file",
+                    "id": "root/Documents/Personal/Vacation Photos/Beach.jpg"
+                  },
+                  {
+                    "name": "Mountains.jpg",
+                    "type": "file",
+                    "id": "root/Documents/Personal/Vacation Photos/Mountains.jpg"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Music",
+        "type": "folder",
+        "id": "root/Music",
+        "children": [
+          {
+            "name": "Song1.mp3",
+            "type": "file",
+            "id": "root/Music/Song1.mp3"
+          },
+          {
+            "name": "Song2.mp3",
+            "type": "file",
+            "id": "root/Music/Song2.mp3"
+          }
+        ]
+      },
+      {
+        "name": "Videos",
+        "type": "folder",
+        "id": "root/Videos",
+        "children": [
+          {
+            "name": "Movie1.mp4",
+            "type": "file",
+            "id": "root/Videos/Movie1.mp4"
+          },
+          {
+            "name": "Movie2.mp4",
+            "type": "file",
+            "id": "root/Videos/Movie2.mp4"
+          }
+        ]
+      }
+    ]
+  }
+  
